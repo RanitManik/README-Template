@@ -110,7 +110,7 @@ steps:
 
 Our community will review your contribution, provide feedback if needed, and merge it once everything looks good.
 <br/>
-To learn more about how to contribute, please refer to the **[Contribution Guidelines](.github/CONTRIBUTING.md)**.
+To learn more about how to contribute, please refer to the **[Contribution Guidelines](https://github.com/RanitManik/Project-Starter-Template/blob/main/.github/CONTRIBUTING.md)**.
 
 ## License
 
