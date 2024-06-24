@@ -25,7 +25,7 @@
 </div>
 
 <!-- Brief project description -->
-A well-crafted README Template containing all the essential community standards to assist you in launching your projects successfully and ensuring they meet the expected quality levels. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/README-Template/discussions)**.
+A well-crafted README Template containing all the essential community standards to assist you in launching your projects successfully and ensuring they meet the expected quality levels. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/Project-Starter-Template/discussions)**.
 
 ## Table of Contents
 
