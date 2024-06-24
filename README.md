@@ -1,6 +1,10 @@
+<!-- Centered content -->
 <div align="center">
+  <!-- Icon for Markdown -->
   <img height="80px" src="https://skillicons.dev/icons?i=md" alt="Markdown Icon">
+  <!-- Main heading -->
   <h1>README Template</h1>
+  <!-- Links to documentation, demo, bug report, and feature request -->
   <a href="https://github.com/RanitManik/Project-Starter-Template/wiki"><strong>Explore the docs »</strong></a>
   <br>
   <br>
@@ -12,14 +16,15 @@
   <br/>
   <br/>
 
-![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/README-Template)
-![GitHub License](https://img.shields.io/github/license/RanitManik/README-Template)
-![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/README-Template)
-![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/README-Template)
-![GitHub Release](https://img.shields.io/github/v/release/RanitManik/README-Template)
-
+  <!-- Badges for GitHub details -->
+  ![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Project-Starter-Template)
+  ![GitHub License](https://img.shields.io/github/license/RanitManik/Project-Starter-Template)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Project-Starter-Template)
+  ![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Project-Starter-Template)
+  ![GitHub Release](https://img.shields.io/github/v/release/RanitManik/Project-Starter-Template)
 </div>
 
+<!-- Brief project description -->
 A well-crafted README Template containing all the essential community standards to assist you in launching your projects successfully and ensuring they meet the expected quality levels. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/README-Template/discussions)**.
 
 ## Table of Contents
@@ -38,21 +43,24 @@ A well-crafted README Template containing all the essential community standards 
 
 ## Overview
 
+<!-- Add an image related to your project -->
 ![README-Template](https://github.com/RanitManik/README-Template/assets/138437760/6b77e370-efc7-4ae9-b81e-79f6ac02fd76)
-
 
 ### Why This Template?
 
+<!-- Explain the purpose and benefits of the template -->
 Your time is valuable and should be focused on building amazing projects that solve problems and help others. This template is designed to streamline the process of setting up a new project so you can adhere to DRY (Don't Repeat Yourself) principles even in your documentation efforts. Here's why this template stands out:
 
 - **Efficiency**: Save time by using a pre-structured template.
 - **Focus**: Spend more time on developing your project rather than setting up from scratch.
 - **Versatility**: This template aims to be as versatile as possible to fit various projects.
 
+<!-- Encourage contributions and feedback -->
 This template will evolve to better meet various needs. Feel free to suggest changes by forking this repo, creating a pull request, or opening an issue. Contributions are always welcome!
 
 ### Technologies Used
 
+<!-- List the technologies used with badges -->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,18 +70,19 @@ This template will evolve to better meet various needs. Feel free to suggest cha
 
 ## Getting Started
 
-To get a local copy up and running, follow these simple steps. 
-Provide instructions and examples for using the project. 
-This template does not rely on any external dependencies or services.
+<!-- Instructions to get a local copy up and running -->
+To get a local copy up and running, follow these simple steps. Provide instructions and examples for using the project. This template does not rely on any external dependencies or services.
 
 ### Prerequisites
 
+<!-- List necessary software prerequisites -->
 Ensure you have the following software installed:
 
 - `Node.js` and `npm`
 
 ### Installation
 
+<!-- Step-by-step installation instructions -->
 1. Clone the repo
    ```sh
    git clone https://github.com/RanitManik/README-Template.git
@@ -89,6 +98,7 @@ Ensure you have the following software installed:
 
 ## Usage
 
+<!-- Instructions on how to run the project -->
 - To run the app run the following command:
 
 ```sh
@@ -97,8 +107,8 @@ npm start
 
 ## Contributing
 
-We welcome contributions from all developers and power users! To add new features or suggest improvements, follow these
-steps:
+<!-- Contribution guidelines -->
+We welcome contributions from all developers and power users! To add new features or suggest improvements, follow these steps:
 
 1. Fork this repository to your own GitHub account.
 2. Clone the forked repository to your local machine.
@@ -108,16 +118,19 @@ steps:
 6. Push the changes to your GitHub fork: `git push origin feature/add-new-feature`
 7. Open a pull request from your forked repository to this original repository.
 
+<!-- Link to the contribution guidelines -->
 Our community will review your contribution, provide feedback if needed, and merge it once everything looks good.
 <br/>
 To learn more about how to contribute, please refer to the **[Contribution Guidelines](https://github.com/RanitManik/Project-Starter-Template/blob/main/.github/CONTRIBUTING.md)**.
 
 ## License
 
+<!-- License information -->
 Distributed under the MIT License. See [`LICENSE.txt`](LICENSE) for more information.
 
 ## Contact
 
+<!-- Contact information -->
 - **Email**: [ranitmanik.dev@gmail.com](mailto:ranitmanik.dev@gmail.com)
 - **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
 - **GitHub**: [RanitManik](https://github.com/RanitManik)
@@ -126,6 +139,7 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 
 ## Acknowledgments
 
+<!-- Acknowledge any resources or inspirations -->
 - [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [shields.io Badges](https://shields.io/)
@@ -133,6 +147,7 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 
 ---
 
+<!-- Closing message -->
 <p align="center">
    Thank you for using the <strong>README Template</strong>! Happy coding! 🚀
 </p>
