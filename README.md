@@ -5,30 +5,30 @@
   <!-- Main heading -->
   <h1>README Template</h1>
   <!-- Links to documentation, demo, bug report, and feature request -->
-  <a href="https://github.com/RanitManik/Project-Starter-Template/wiki"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/RanitManik/README-Template/wiki"><strong>Explore the docs »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/RanitManik/Project-Starter-Template">View Demo</a>
+  <a href="https://github.com/RanitManik/README-Template">View Demo</a>
   ·
-  <a href="https://github.com/RanitManik/Project-Starter-Template/issues/new?assignees=&labels=&projects=&template=bug_report.md">Report Bug</a>
+  <a href="https://github.com/RanitManik/README-Template/issues/new?assignees=&labels=&projects=&template=bug_report.md">Report Bug</a>
   ·
-  <a href="https://github.com/RanitManik/Project-Starter-Template/issues/new?assignees=&labels=&projects=&template=feature_request.md">Request Feature</a>
+  <a href="https://github.com/RanitManik/README-Template/issues/new?assignees=&labels=&projects=&template=feature_request.md">Request Feature</a>
   <br/>
   <br/>
 
   <!-- Badges for GitHub details -->
-  ![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Project-Starter-Template)
-  ![GitHub License](https://img.shields.io/github/license/RanitManik/Project-Starter-Template)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Project-Starter-Template)
-  ![GitHub stars](https://img.shields.io/github/stars/RanitManik/CHAT?style=default)
-  ![GitHub forks](https://img.shields.io/github/forks/RanitManik/CHAT?style=default)
+  ![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/README-Template)
+  ![GitHub License](https://img.shields.io/github/license/RanitManik/README-Template)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/README-Template)
+  ![GitHub stars](https://img.shields.io/github/stars/RanitManik/README-Template?style=default)
+  ![GitHub forks](https://img.shields.io/github/forks/RanitManik/README-Template?style=default)
   <br/>
-  ![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Project-Starter-Template)
-  ![GitHub Release](https://img.shields.io/github/v/release/RanitManik/Project-Starter-Template)
+  ![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/README-Template)
+  ![GitHub Release](https://img.shields.io/github/v/release/RanitManik/README-Template)
 </div>
 
 <!-- Brief project description -->
-A well-crafted README Template containing all the essential community standards to assist you in launching your projects successfully and ensuring they meet the expected quality levels. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/Project-Starter-Template/discussions)**.
+A well-crafted README Template containing all the essential community standards to assist you in launching your projects successfully and ensuring they meet the expected quality levels. Ask questions about this project in the **[Discussion](https://github.com/RanitManik/README-Template/discussions)**.
 
 ## Table of Contents
 
@@ -124,7 +124,7 @@ We welcome contributions from all developers and power users! To add new feature
 <!-- Link to the contribution guidelines -->
 Our community will review your contribution, provide feedback if needed, and merge it once everything looks good.
 <br/>
-To learn more about how to contribute, please refer to the **[Contribution Guidelines](https://github.com/RanitManik/Project-Starter-Template/blob/main/.github/CONTRIBUTING.md)**.
+To learn more about how to contribute, please refer to the **[Contribution Guidelines](https://github.com/RanitManik/README-Template/blob/main/.github/CONTRIBUTING.md)**.
 
 ## License
 
@@ -138,7 +138,7 @@ Distributed under the MIT License. See [`LICENSE.txt`](LICENSE) for more informa
 - **LinkedIn**: [Ranit Manik](https://www.linkedin.com/in/ranit-manik/)
 - **GitHub**: [RanitManik](https://github.com/RanitManik)
 
-_Feel free to reach out if you have questions or just want to chat about web adventures!_
+_Feel free to reach out if you have questions or just want to README-Template about web adventures!_
 
 ## Acknowledgments
 
