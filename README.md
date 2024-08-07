@@ -20,10 +20,11 @@
   ![GitHub Created At](https://img.shields.io/github/created-at/RanitManik/Project-Starter-Template)
   ![GitHub License](https://img.shields.io/github/license/RanitManik/Project-Starter-Template)
   ![GitHub repo size](https://img.shields.io/github/repo-size/RanitManik/Project-Starter-Template)
-  ![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Project-Starter-Template)
-  ![GitHub Release](https://img.shields.io/github/v/release/RanitManik/Project-Starter-Template)
   ![GitHub stars](https://img.shields.io/github/stars/RanitManik/CHAT?style=default)
   ![GitHub forks](https://img.shields.io/github/forks/RanitManik/CHAT?style=default)
+  <br/>
+  ![GitHub Discussions](https://img.shields.io/github/discussions/RanitManik/Project-Starter-Template)
+  ![GitHub Release](https://img.shields.io/github/v/release/RanitManik/Project-Starter-Template)
 </div>
 
 <!-- Brief project description -->
